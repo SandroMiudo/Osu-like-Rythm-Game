@@ -1,0 +1,6 @@
+titel1,singer1,10,1
+titel2,singer2,50,2
+titel3,singer3,100,3
+titel4,singer4,500,5
+titel5,singer5,1000,6
+titel6,singer6,2000,7
